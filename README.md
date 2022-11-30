@@ -1,8 +1,64 @@
-# My data science project
-From the [Skillfactory Data Science course](https://skillfactory.ru/data-scientist-pro)
+### Привет! 👋
 
-## Проекты
+### ✨ Обо мне за 30 секунд ✨ 
+* 🎓 Образование:
+  - РТУ МИРЭА
+  - РЭУ Плеханова
+  - 
+* 
+*  
+* 
+* 
 
-* [Проект 0. Игра: Угадай число](https://github.com/fido-alex/DS/tree/main/project_0)
-* [Проект 1. Анализ резюме из HeadHanter](https://github.com/fido-alex/DS/tree/main/project_1)
-* [Проект 2. Анализ ваканий из HeadHanter](https://github.com/fido-alex/DS/tree/main/project_2)
+### 📚 Проекты 📚
+
+* Кликни [сюда]() чтобы посмотреть мои проекты
+
+### 💡 Основные компетенции 💡
+- Инструменты: 
+- Skills: 
+    * 
+    * 
+    * 
+
+### ⚡️ В настоящее время ⚡️
+- 
+- 
+- 
+- 
+
+### 🙌🏻 Свяжись со мной
+- [Telegram]()
+- [Kaggle]()
+
+---
+
+### Hello! 👋
+
+### ✨ About me in 30 seconds ✨ 
+* 🎓 Education:
+ - 
+ - 
+ - 
+* 
+* 
+* 
+* 
+
+### 💡 Core competencies 💡
+- Tools: 
+  - Skills:
+    * 
+    * 
+    * 
+
+
+### ⚡️ Currently ⚡️
+- 
+- 
+- 
+- 
+
+### 🙌🏻 Contact me
+- [Telegram]()
+- [Kaggle]()
